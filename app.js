@@ -21,8 +21,8 @@ console.log (producto = (numero1 * numero2));
 
 // par o inpar
 
-console.log (` ${(numero1 %2) == 0 ? "Es par" : "Es inpar"}`)
-console.log (` ${(numero2 %2) == 0 ? "Es par" : "Es inpar"}`)
+console.log (` ${(numero1 %2) == 0 ? "Es par" : "Es inpar"}`);
+console.log (` ${(numero2 %2) == 0 ? "Es par" : "Es inpar"}`);
 
 // Ejercicio 3 
 
